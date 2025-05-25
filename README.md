@@ -1,4 +1,4 @@
-# 📝 To-Do List CLI App
+# To-Do List with Python
 
 A simple command-line To-Do List application written in Python.  
 Manage your daily tasks quickly from the terminal: add, view, search, remove, and clear tasks with ease.
@@ -7,7 +7,7 @@ Manage your daily tasks quickly from the terminal: add, view, search, remove, an
 
 ---
 
-## 📌 Features
+##  Features
 
 -  Add tasks
 -  View all tasks
